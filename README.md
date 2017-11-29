@@ -1,4 +1,4 @@
-# TSQLParserThroughC-
+# TSQLParserThroughC#
 1.  Microsoft.SqlServer.TransactSql.ScriptDom By Microsoft
 
               Works fine with select statement, need to test more options for update statement and other DDL and DML statements.
